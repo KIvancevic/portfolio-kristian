@@ -43,7 +43,7 @@ const Index = () => {
                     <div className="front">
                       <div className="image image-1">
                         <div className="hero-section-content">
-                          <h2> Front End Web Developer </h2>
+                          <h2> Junior Front End Web Developer </h2>
                           <div className="hero-section-content-intro">
                             Have a look at my portfolio and job history.
                           </div>
