@@ -14,7 +14,7 @@ const Cv = () => {
       >
         <Row>
           <Col md={{size: 8, offset: 2}}>
-            <iframe style={{width: '100%', height: '800px'}} src="Kristian Ivancevic - CV - Resume"/>
+            <iframe style={{width: '100%', height: '800px'}} src="/Kristian Ivancevic - CV - Resume.pdf/"/>
           </Col>
         </Row>
       </BasePage>
