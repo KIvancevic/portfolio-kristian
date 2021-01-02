@@ -24,7 +24,7 @@ const Portfolio = ({portfolio}) => {
         <div className="portfolio-detail">
           <div className="cover-container d-flex h-100 p-3 mx-auto flex-column">
           <main role="main" className="inner page-cover">
-            { true &&
+            { router.isFallback &&
               <h1 className="cover-heading">Your page is getting served...</h1>
             }
             { !router.isFallback &&
